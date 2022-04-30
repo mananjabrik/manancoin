@@ -1,0 +1,1 @@
+export const contractCoin = 0x63B13Ee51266BA119ef95741d4941a16BDfd485D
